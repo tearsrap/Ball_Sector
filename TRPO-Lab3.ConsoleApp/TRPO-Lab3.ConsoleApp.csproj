@@ -5,4 +5,8 @@
     <RootNamespace>TRPO_Lab3.ConsoleApp</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Ball_Sector\TRPO-Lab3.Lib.csproj" />
+  </ItemGroup>
+
 </Project>
